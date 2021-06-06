@@ -1,0 +1,36 @@
+form{
+    background-color: #f6f6f6;
+    width: 36%;
+    margin-left: 32%;
+    margin-right: 32%;
+}
+th{
+    color: #a30081;
+    font-weight: bolder;
+    text-align: left;
+}
+table{
+    border: solid 1px;
+}
+.item{
+    border-left-width:medium;
+    width: 200px;
+    height: 5px;
+    margin: 10px;
+}
+
+textarea {
+    width: 250px;
+    height: 70px;
+    text-indent: 32px;
+}
+a{
+    text-decoration-line: none;
+    color: #a30081;
+}
+a:hover{
+    color: blueviolet;
+}
+.button{
+    text-align: center;
+}
