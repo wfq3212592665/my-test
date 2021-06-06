@@ -43,8 +43,8 @@ a:hover{
     border-radius: 12px;
     padding-top: 6px;
     height: 24px;
-    width: 250px;
-    text-indent: 32px;
+    width: 250px; 
+    margin-left: 40px;
 }
 #search input:focus {
     width: 300px;
