@@ -1,24 +1,16 @@
 form{
     background-color: #f6f6f6;
-    width: 36%;
-    margin-left: 32%;
-    margin-right: 32%;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 1%;
+    padding-left: 2%;
 }
 th{
     color: #a30081;
     font-weight: bolder;
     text-align: left;
 }
-table{
-    border: solid 1px;
-}
-.item{
-    border-left-width:medium;
-    width: 200px;
-    height: 5px;
-    margin: 10px;
-}
-
 textarea {
     width: 250px;
     height: 70px;
@@ -34,3 +26,14 @@ a:hover{
 .button{
     text-align: center;
 }
+#protect{
+    width: 147PX;
+}
+.item textarea{
+    width: 551px;
+    height: 70px;
+}
+
+
+
+
